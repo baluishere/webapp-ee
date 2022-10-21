@@ -1,0 +1,5 @@
+replicaCount: 2
+image: baluishere/eetest:1.0
+
+service:
+  port: 5000
